@@ -1,6 +1,6 @@
 👋 Hi, I’m @wintersoul13/priyanshi
-👀 I’m interested in python, c++
-🌱 I’m currently learning coding languages 
+👀 I’m interested in python, c++ , html and css 
+🌱 I’m currently learning full stack web dev 
 
 
 
